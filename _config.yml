@@ -1,0 +1,14 @@
+layout_spectrum: 0.34451653878204525
+typography_spectrum: 0.5952120050787926
+color:
+  brandStrength: 0.5432983301579952
+  lightness: 0.6677458572667092
+  saturation: 0.4992941024247557
+  rhythmicContrast: 0.2532547765877098
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: MySite
