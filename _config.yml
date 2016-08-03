@@ -1,4 +1,3 @@
-layout_spectrum: 0.34451653878204525
 typography_spectrum: 0.5952120050787926
 color:
   brandStrength: 0.5432983301579952
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.34451653878204525
 name: MySite
 title: My Site on grid.io
+description: 'is this thing actually real?  it has been so long, I forgot about it..'
